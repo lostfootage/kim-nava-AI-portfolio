@@ -9,11 +9,13 @@ Welcome to my AI portfolio for **ITAI 2373 – Natural Language Processing**. Th
 ## 📚 Course Overview
 
 **Course:** ITAI 2373 – Natural Language Processing  
-**Instructor:** [Instructor Name] *(optional)*  
+**Instructor:** patricia mcmanus 
 **Term:** Summer 2025  
 **Institution:** Houston Community College
 
-This course focused on:
+other courses ive taken are also ITAI 2371,2376, 2377 and ITSE 1346 
+
+This specific course focused on:
 - Preprocessing and text cleaning
 - Bag-of-Words, TF-IDF, and embeddings
 - Named Entity Recognition (NER)
@@ -86,7 +88,7 @@ All files follow the course's required naming conventions.
 **Name:** Kim Nava  
 **Course:** ITAI 2373 – Natural Language Processing  
 **GitHub:** [imid12](https://github.com/imid12)
-
+**email** mememaster2o@gmail.com (I love all things proffesional but i also got my associates in cyber security so a girly knows never to put true important info publicly online!) 
 ---
 
 > 🎓 *This repository is part of my final project submission for the Applied AI and Robotics program.*
