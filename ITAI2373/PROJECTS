@@ -1,1 +1,13 @@
 
+## 📘 What I’ve Learned Across All My AI Projects
+
+Over the course of this program, I’ve worked on a range of AI and data projects that have helped me grow technically and professionally.
+I’ve built tools like **NewsBot**, which uses NLP to summarize and analyze news headlines, and I contributed to a **Healthcare Assistant** designed to answer patient questions  both showing how language models can support real people.
+In my **AI midterm**, I implemented a diffusion model from scratch, giving me deeper insight into how generative models learn to create images.
+I’ve also strengthened my understanding of **relational databases** through designing ERDs, writing SQL queries, and translating logical models into working systems.
+
+Each project taught me something new from data cleaning and model evaluation to collaboration, documentation, and ethical considerations.
+I’ve learned how to use libraries like `SpaCy`, `VADER`, `transformers`, and `PyTorch`, and how to bring them together in working pipelines. 
+To gain more experience, I’m continuing to build side projects, participate in group work, and contribute to open-source when I can. 
+I’m also making sure my GitHub clearly reflects not just my code, but the thinking and reflection behind it. 
+I want to become someone who doesn’t just build AI but builds it with purpose, clarity, and impact. With each project, I’m becoming more confident, more curious, and more prepared to lead in future AI roles or courses.
