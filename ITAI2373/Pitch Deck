@@ -1,0 +1,90 @@
+# 🧠 Kim Nava – AI Portfolio Pitch Deck
+
+> _"I believe AI should be useful, ethical, and human-centered."_
+
+---
+
+## 👋  1: Professional Introduction
+
+**Kim Nava**  
+Applied AI & Robotics Student | NLP & Ethical AI Advocate
+
+🎯 *Focused on building real-world AI that helps people, not just machines.*
+
+- 🔗 [GitHub Portfolio](https://github.com/lostfootage/kim-nava-AI-portfolio)
+
+---
+
+## 💡 2: What I Bring to the Table
+
+**Why I’m drawn to AI:**  
+I'm passionate about how AI can process human language and behavior to solve real problems especially in healthcare since I have expeienced over 7  years of  pharmacy, which many people disreard and views it as "easy " since we stare at screns all day.
+
+**What sets me apart:**
+- Hands-on NLP experience: text processing, sentiment analysis, embeddings
+- End-to-end AI project building (from data to deployment)
+- Clear communicator, team collaborator, and creative thinker
+
+**Domains I care about:**
+- Healthcare access  
+- Educational tools  
+- Accessible tech for all
+
+---
+
+## 📊 3: Project Showcase – NewsBot 📰
+
+**📰 NewsBot** – A real-time news summarizer with sentiment analysis  
+Built as part of ITAI 2373 (NLP), in a team setting.
+
+**Problem:** News is overwhelming, and often biased or too time-consuming to follow.  
+**My Approach:**  
+- Scraped and cleaned live articles  
+- Built an NLP pipeline with `SpaCy`, `VADER`, and `transformers`  
+- Classified sentiment and generated concise summaries
+
+**Impact:**  
+- Achieved ~85% sentiment classification accuracy  
+- Reduced reading time by ~66%  
+- Designed to help users understand headlines quickly and objectively
+
+**Main Project for this course**
+
+🔗 [View the full project](https://github.com/imid12/miniature-eureka-Group5/tree/main/ITAI2373-NewsBot-Midterm)
+
+
+
+---
+
+## 🛠️  4: Technical Arsenal
+
+**Languages & Frameworks:**  
+`Python`, `SQL`, `PyTorch`, `Scikit-learn`, `Hugging Face Transformers`, `SpaCy`, `NLTK`
+
+**Tools I Use:**  
+Google Colab, GitHub, VS Code, OpenAI API, Pandas, NumPy
+
+**Skills & Methods:**  
+- Text Preprocessing & POS Tagging  
+- Sentiment & Emotion Analysis  
+- Word Embeddings & BOW/TF-IDF  
+- CNNs, Transformers, Diffusion Models  
+- Clean, documented, and ethical code
+
+---
+
+## 📬 5: Let’s Connect
+
+**I'm looking for:**  
+- Entry-level AI/NLP roles or internships  
+- Collaborations on projects that create positive real-world impact  
+
+**What I bring:**  
+- Practical experience from real projects  
+- A growth mindset and dedication to quality work  
+- A user-first, responsible approach to AI
+
+
+---
+
+
