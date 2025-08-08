@@ -88,7 +88,7 @@ All files follow the course's required naming conventions.
 **Name:** Kim Nava  
 **Course:** ITAI 2373 – Natural Language Processing  
 **GitHub:** [imid12](https://github.com/imid12)
-**email** mememaster2o@gmail.com (I love all things proffesional but i also got my associates in cyber security so a girly knows never to put true important info publicly online!) 
+
 ---
 
 > 🎓 *This repository is part of my final project submission for the Applied AI and Robotics program.*
