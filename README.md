@@ -87,7 +87,7 @@ All files follow the course's required naming conventions.
 
 **Name:** Kim Nava  
 **Course:** ITAI 2373 – Natural Language Processing  
-**GitHub:** [imid12](https://github.com/imid12)
+**GitHub:** lostfootage
 
 ---
 
